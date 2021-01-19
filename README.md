@@ -7,4 +7,6 @@ Hello, My Name Is Ren!
 
 - ⚡ Fun fact: I Used To Be A Graphics Artist!
 
+[My GitHub stats](https://github-readme-stats.vercel.app/api?username=rendiscorddev&show_icons=true&theme=tokyonight)
+
 [![GitHub rendiscorddev](https://img.shields.io/github/followers/rendiscorddev?label=follow&style=social)](https://github.com/rendiscorddev)
